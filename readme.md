@@ -16,7 +16,9 @@ _italics_
 _bold_
 **_lines_**
 :ok_hand:
-:heart:
+:mask:
+:sleepy:
+:v:
 - [x] this is a complete item
 - [ ] this is an incomplete item
 - [x] @mentions, #refs, [links](),
